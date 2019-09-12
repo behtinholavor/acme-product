@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Enterprise.Product</name>
+    </assembly>
+    <members>
+        <member name="M:Devops.API.Controllers.ProductController.Update(System.String,Devops.API.Models.Product)">
+            <summary>
+            Updates a single product
+            </summary>
+            <param name="id"></param>
+            <param name="product"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
